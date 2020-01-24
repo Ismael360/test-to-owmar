@@ -1,0 +1,68 @@
+Que tranza Owmara, te voy a escribir un código corto para que comienzes a crear tus primer diseños Frontend
+con html y javascript, lo primero que vas a hacer va a ser: Copiar el diseño que tiene la pagina,
+aquí mismo te voy a comentar todo para que veas que es lo que hace y como funciona, ok?
+
+Suerte owmara, si se puede...!!!
+
+En el index.html cuando esté vacio (es decir, que no tenga nada escrito adentro), lo primero que vas a hacer
+es lo siguiente;
+
+Primero escribe esto:  ! , despues de eso le das enter y se te va a crear un codigo de la siguiente manera;
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    
+
+</body>
+</html>
+
+
+En el body vas a escribir todo tu código
+
+Todo el código te lo deje comentado, la manera para añadir comentarios es la siguiente:
+
+   <!-- aquí ingresas el comentario --> 
+
+Investiga que significa CSS y HTML.
+
+
+Ahora te explico: en el código de html, a las etiquetas puedes añadirles clases o id´s.
+las clases y los id´s se encargan de muchas cosas, primero veamoslas en CSS.
+
+
+Una vez que leas un poco de CSS sabras como se utilizan.
+
+
+Cuando escribas código en el body del html, necesitaras añadirles estilos.
+para añadir clases en html se utiliza la siguente sintaxis:
+
+class="ejemplo"
+
+es decir, si quieres añadir una clase en una etiqueta de h1 por ejemplo,
+haces lo siguiente
+
+<h1 class="ejemplo"> title <h1>
+
+No será muy dificil porque visual studio code (la aplicacion que estas utilizando) autocompleta el texto del 
+código.
+
+
+
+Para añadirles estilos a los titulos por ejemplo, nos vamos al archivo de styles.css, y ahí
+seleccionamos las clases o las id, las clases en css se seleccionan de la siguiente manera
+
+.ejemplo{
+    aquí adentro se escriben los estilos que quieres añadirles, por ejemplo:
+
+    color: lightblue; 
+
+}
+
+eso si, todo esta en ingles.
